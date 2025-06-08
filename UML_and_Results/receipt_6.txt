@@ -1,0 +1,41 @@
+Premium Customer Info: Emily Bell ebell@outlook.com 987-425-1134 8362 Oak Ln
+
+Order ID: 6
+
+The information for Expresso Coffees are categorize by the following: Name, Price, Description, Calories, Milkshots, and additional Ingredients 
+ 
+The information for Filtered Coffees are categorize by the following: Name, Price, Description, Calories, Brewtype
+
+Sorry for the inconvenience ^_^
+
+Expresso:
+You Purchased: 1
+Affogato,  4.00,  a simple yet indulgent Italian dessert that combines espresso with ice cream.,  200,  6,  Whole milk,  Large scoop of ice cream
+
+Expresso:
+You Purchased: 2
+Americano,  2.50,  An Americano is a simple yet flavorful coffee drink made by diluting a shot (or two) of espresso with hot water. This creates a coffee that is similar in strength to drip coffee but with a different taste profile.,  150,  4,  skim milk,  double shot: 4 calories
+
+Expresso:
+You Purchased: 2
+Mocha,  3.50,  A Mocha is a rich sweet espresso-based drink made with espresso steamed milk and chocolate syrup or cocoa powder often topped with whipped cream. It’s essentially a chocolate-flavored latte combining the richness of coffee and the sweetness of chocolate. It’s a popular choice for those who enjoy a sweeter dessert-like coffee.,  250,  2,  almond milk,  can also have: whole milk or soy milk
+
+Filtered Coffee:
+You Purchased: 1
+Light Cafe au Lait,  3.00,  Café au Lait is made with equal parts brewed light roast coffee and steamed milk. This coffee is smooth and creamy with the light roast offering a gentle and slightly fruity flavor.,  120,  Light
+
+Filtered Coffee:
+You Purchased: 2
+Dark Roast Coffee,  1.50,  Dark roast coffee is made from beans roasted longer resulting in a deeper richer flavor with smoky bold and sometimes slightly bitter notes. It's less acidic than lighter roasts and has a full-bodied robust flavor.,  200,  Dark
+
+Filtered Coffee:
+You Purchased: 2
+Medium Iced Coffee,  2.50,  Iced coffee brewed with medium-roast beans has a smooth balanced flavor with moderate acidity and light sweetness. It’s typically served chilled and is a great choice for those who enjoy a cold refreshing coffee.,  100,  Medium
+
+Your Total for today will be: $2.70 also 10% discount was rewarded
+
+Premium customer Thank you for paying in bitcoin a 10% discount will be applied to the price.
+
+Your order is Passive
+
+Thanks for shopping with us. Hope you be back soon ^_^
